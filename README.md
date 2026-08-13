@@ -1,1 +1,1 @@
-# arielvonlestat.gitup.io
+My first real on my own challenge. I have been studying via a Udemy bootcamp, some Codecademy stuff, & a good friend of mine to help me at least feel like i'm not going crazy. I'm sure the code is quite rough to what it could be but i'm proud of myself for getting there.....eventually.
